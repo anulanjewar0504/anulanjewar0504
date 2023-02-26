@@ -78,9 +78,3 @@ Hello! I'm student who is looking for internship, Now I'm pursuing my BE degree 
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
