@@ -28,7 +28,7 @@ Hello! I'm student who is looking for internship, Now I'm pursuing my BE degree 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" align="center" style="width: 100%" />
 </div>  
 
 
