@@ -1,4 +1,4 @@
-# ![logo](https://github.com/anulanjewar0504/anulanjewar0504/blob/37348e683017b0b718bf362d0edcbfe08b4d182b/White%20and%20Olive%20Minimalist%20Personal%20Profile%20Linkdin%20Banner%20(1).jpg)
+# ![logo](White and Olive Minimalist Personal Profile Linkdin Banner (1).jpg)
 # *Hey 👋, I'm Anurag lanjewar! a web developer from earth🌎*  
   
 
