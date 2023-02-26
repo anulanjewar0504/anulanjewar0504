@@ -1,6 +1,3 @@
-<img src="White and Olive Minimalist Personal Profile Linkdin Banner (1).jpg" align="left" height="300" width="600" />  
-  
-
 # *Hey 👋, I'm Anurag lanjewar!................. a web developer from earth🌎*  
   
 
