@@ -1,4 +1,4 @@
-<img src="https://github.com/anulanjewar0504/anulanjewar0504/blob/main/White%20and%20Olive%20Minimalist%20Personal%20Profile%20Linkdin%20Banner.png" align="left" height="300" width="600" />  
+<img src="White and Olive Minimalist Personal Profile Linkdin Banner (1).jpg" align="left" height="300" width="600" />  
   
 
 # *Hey 👋, I'm Anurag lanjewar!................. a web developer from earth🌎*  
