@@ -1,5 +1,5 @@
 ![MasterHead](https://madehuge.com/wp-content/uploads/2022/03/web-development.gif)
-# *Hey 👋, I'm Anurag lanjewar! a web developer from earth🌎*  
+# *Hi 👋, I'm Anurag lanjewar! a web developer from earth🌎*  
   
 
 
