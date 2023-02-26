@@ -1,4 +1,4 @@
-# *Hey 👋, I'm Anurag lanjewar!................. a web developer from earth🌎*  
+# *Hey 👋, I'm Anurag lanjewar! a web developer from earth🌎*  
   
 
 
